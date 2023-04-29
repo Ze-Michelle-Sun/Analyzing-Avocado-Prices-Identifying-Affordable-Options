@@ -17,6 +17,4 @@ Performed a regression task to predict the prices of avocados. Used Scikit-learn
 
 
 ## Conclusion
-- After performing the above tasks, identified the regions where avocados are sold at cheaper prices. Can do this by analyzing the data by region and looking at the average prices of avocados in each region.
-
-- By analyzing this comprehensive dataset, aimed to identify locations where avocados were available at more affordable prices. This analysis will provide valuable insights for avocado enthusiasts seeking cost-effective options without compromising on quality.
+- Based on analysis using k-fold cross-validation for model selection, determined that the random forest model is the most suitable for predicting average avocado prices.
