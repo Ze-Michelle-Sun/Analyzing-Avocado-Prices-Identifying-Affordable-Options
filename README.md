@@ -1,3 +1,4 @@
+![image](https://github.com/Ze-Michelle-Sun/Analyzing-Avocado-Prices-Identifying-Affordable-Options/assets/110506170/e7f4e3ae-22f1-4ef3-8a7e-990fc12e2189)
 # Analyzing-Avocado-Prices-Identifying-Affordable-Options
 ## Introduction
 Who doesn't love avocados? They are delicious, versatile, and packed with nutrients. However, their popularity often comes with a higher price tag. In this analysis, the aim to utilize data from the Hass Avocado Board website to uncover where the cheapest avocados can be found. The data, downloaded in May 2018 and compiled into a single CSV file, provides valuable insights into the retail scan data for national volume and price of Hass avocados.
